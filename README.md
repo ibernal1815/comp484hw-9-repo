@@ -9,7 +9,7 @@
  
 ## GitHub Pages Link
  
-(add your GitHub Pages URL here after publishing)
+https://ibernal1815.github.io/comp484hw-9-repo/
  
 ## Screenshot
  
