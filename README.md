@@ -11,9 +11,10 @@
  
 https://ibernal1815.github.io/comp484hw-9-repo/
  
-## Screenshot
- 
-screenshot.png is in the root of the repository.
+## Screenshots
+
+<img width="1910" height="962" alt="Screenshot 2026-04-07 174221" src="https://github.com/user-attachments/assets/7b031611-ce55-4e74-9c27-3fda98864c03" />
+<img width="963" height="301" alt="image" src="https://github.com/user-attachments/assets/1608f604-9f52-4daa-8672-997d22396f86" />
  
 ## Reflection
  
